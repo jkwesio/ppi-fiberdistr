@@ -31,7 +31,6 @@ pandocfilters==1.5.0
 parso==0.8.3
 pickleshare==0.7.5
 Pillow==9.0.1
-pywin32==303
 pywinpty==2.0.5
 pyzmq==22.3.0
 requests==2.27.1
